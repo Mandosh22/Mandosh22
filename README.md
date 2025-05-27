@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Mandosh22/Mandosh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy **Armando Ayala**, Desarrollador de Software con 3 años de experiencia.  
+Me gusta formar parte de nuevos retos y aprender cosas nuevas para mantenerme siempre actualizado. 🔥🧑‍💻  
 
-Here are some ideas to get you started:
+### 🚀 Lenguajes y Tecnologías  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobile**:  
+  📱 **Android Nativo** (Kotlin/Java)  
+  ⚛️ **React Native**  
+
+- **Frontend**:  
+  ⚛️ **React.js**  
+  🅰️ **Angular**  
+  📲 **Ionic**  
+
+- **Backend**:  
+  🐘 **PHP**  
+  🏗️ **Laravel**  
+  ☕ **Java**  
+
+- **Lenguajes**:  
+  🪿 **JavaScript**  
+  📘 **TypeScript**  
+
+- **Herramientas**:  
+  🤖 **CodeIgniter**  
+
+¡Siempre abierto a colaborar en proyectos interesantes! ✨  
+
+
+
